@@ -54,7 +54,7 @@ Abra o arquivo index.html em qualquer navegador.
 Criar a estrutura básica de um site HTML
 
 Utilizar corretamente tags como:
-
+```
 h1 a h6
 
 p
@@ -64,7 +64,7 @@ ul / ol / li
 a
 
 img
-
+```
 Organizar arquivos e diretórios
 
 ## 📌 Melhorias Futuras
