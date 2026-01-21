@@ -24,14 +24,14 @@ Este projeto tem foco exclusivamente em **estrutura e semântica HTML**.
 
 ## 📁 Estrutura do Projeto
 
+```
 .
 ├── index.html
 ├── receitas/
-│ ├── estrogonofe.html
-│ └── lasanha.html
+│   ├── estrogonofe.html
+│   └── lasanha.html
 └── README.md
-
-
+```
 
 ---
 
