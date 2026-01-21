@@ -22,7 +22,7 @@ Este projeto tem foco exclusivamente em **estrutura e semântica HTML**.
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 .
 ├── index.html
@@ -30,6 +30,7 @@ Este projeto tem foco exclusivamente em **estrutura e semântica HTML**.
 │ ├── estrogonofe.html
 │ └── lasanha.html
 └── README.md
+
 
 
 ---
