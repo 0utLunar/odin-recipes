@@ -1,0 +1,48 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+a {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color: red;
+    font-size: 16px;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    
+}
+
+a:hover {
+    background-color: rgb(116, 0, 0);
+}
+
+.imagem {
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 30px;
+}
+
+.botoes {
+    text-align: center;
+}
+
+.subtitulo {
+    font-size: 20px;
+}
+
+.lista {
+    text-align: center;
+    list-style-position: inside;
+}

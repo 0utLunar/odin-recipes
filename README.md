@@ -31,6 +31,7 @@ Este projeto tem foco exclusivamente em **estrutura e semântica HTML**.
 │   ├── estrogonofe.html
 │   └── lasanha.html
 └── README.md
+└── style.css
 ```
 
 ---
@@ -68,7 +69,7 @@ img
 Organizar arquivos e diretórios
 
 ## 📌 Melhorias Futuras
-Adicionar estilização com CSS
+~~Adicionar estilização com CSS~~
 
 Tornar o layout responsivo
 
